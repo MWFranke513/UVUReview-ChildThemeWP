@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# Development files
+node_modules/
+*.map
+
+# Temporary files
+*.tmp
+*.bak
